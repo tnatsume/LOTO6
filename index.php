@@ -34,8 +34,8 @@ $nums = $bingo->create();
             <?php endfor; ?>
         </tr>
         </table>
-
+        <input type="button" value="再読込"id="reload">
     </div>
-    
+    <script src="js/main.js"></script>
 </body>
 </html>
