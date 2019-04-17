@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
+
+#container{
+    margin:0 auto;
+    width:400px;
+}
+
+td,th{
+    width: 260px;
+    height:145px;
+}
+
+
+td{
+    background: #f06292;
+    color:#fff;
+
+}
+th{
+    color:#f06292;
+    font-size: 22px;
+}
